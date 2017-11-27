@@ -10,4 +10,9 @@ let us choose what to commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 I can compare my current files and the previous commits to know more about my
-recent changes. 
+recent changes.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Branches are helpful when you need to keep different active versions of your
+project. 
