@@ -5,4 +5,9 @@ to start using the version control.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 It holds all files that will be committed, its value resides on the fact that it
-let us choose what to commit. 
+let us choose what to commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+I can compare my current files and the previous commits to know more about my
+recent changes. 
