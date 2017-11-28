@@ -18,4 +18,10 @@ Branches are helpful when you need to keep different active versions of your
 project.
 
 How do the diagrams help you visualize the branch structure?
-They make clear the non-linear behaviour of commits in Git. 
+They make clear the non-linear behavior of commits in Git.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+After merging two branches we obtain a new branch with every modification made
+in each branch. When you represent it, you emphasize the fact that the result
+comes from two different versions of the files.
