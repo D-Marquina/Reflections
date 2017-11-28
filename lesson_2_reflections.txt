@@ -25,3 +25,8 @@ the diagram the way we do?
 After merging two branches we obtain a new branch with every modification made
 in each branch. When you represent it, you emphasize the fact that the result
 comes from two different versions of the files.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+You need to save manually when your files may have been modified in such a way
+that Git can't identify the best modification.
