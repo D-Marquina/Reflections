@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When you don't have acces to your projrct files, e.g. when you are travelling and have to use anotherd person's computer.
