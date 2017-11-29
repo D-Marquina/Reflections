@@ -12,3 +12,8 @@ one instead of another?
 A fork is a copied repository that exists in Github's servers. A clone is a
 copied repository that exists in your PC. A fork is useful when you want to give
 credit to the original author of a repository.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+It allows you to keep track of the remote repository and compare commits. Also,
+you can manually pull by merging.
