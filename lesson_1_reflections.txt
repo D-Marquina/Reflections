@@ -30,4 +30,4 @@ I can introduce big changes without worries because I can always return to my
 previous version of my code.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-I'd like to try it for coding. 
+I'd like to try it for coding.
