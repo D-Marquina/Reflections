@@ -21,3 +21,10 @@ you can manually pull by merging.
 How would you collaborate without using Git or GitHub? What would be easier, and
 what would be harder?
 By e-mails, tht would be way too much harder.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+You use a separate branch to test your changes, and it's goog to have a stable
+version of master to share with others. When there are few people who depend on
+your project, you can modify directly your master branch, as doing so won't have
+such an impact.
